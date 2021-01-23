@@ -1,6 +1,16 @@
 # Calculadora de IMC e Taxa Metabólica Basal
 
-Projeto desenvolvido em Flutter
+Projeto desenvolvido em Flutter para praticar alguns conhecimentos como:
+-StatefulWidget
+-TextEditingController
+-Globalkey
+-Functions
+-Appbar
+-SingleChildScrowView
+-Form
+-TextFormField Validator
+-Radio button e RaisedButton
+-Custom Fonts
 
 ## Instalação
 
