@@ -2,7 +2,7 @@
 
 Projeto desenvolvido em Flutter
 
-## Getting Started
+## Instalação
 
 Para instalar siga os passos abaixo:
 
