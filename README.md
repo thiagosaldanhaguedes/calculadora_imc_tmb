@@ -13,3 +13,4 @@ Projeto desenvolvido em Flutter para praticar alguns conhecimentos como:<br/>
 -Custom Fonts<br/>
 
 ![alt text](https://github.com/thiagosaldanhaguedes/calculadora_imc_tmb/blob/master/1.png?raw=true)
+![alt text](https://github.com/thiagosaldanhaguedes/calculadora_imc_tmb/blob/master/2.png?raw=true)
